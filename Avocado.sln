@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avocado", "Avocado\Avocado.csproj", "{02D60551-69A0-4322-8909-D50F1E5EB2FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avocado.Tests", "Avocado.Tests\Avocado.Tests.csproj", "{0A9C6AFE-3727-4E61-AEA9-E3E2AA9C5C5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D60551-69A0-4322-8909-D50F1E5EB2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D60551-69A0-4322-8909-D50F1E5EB2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D60551-69A0-4322-8909-D50F1E5EB2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D60551-69A0-4322-8909-D50F1E5EB2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9C6AFE-3727-4E61-AEA9-E3E2AA9C5C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9C6AFE-3727-4E61-AEA9-E3E2AA9C5C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9C6AFE-3727-4E61-AEA9-E3E2AA9C5C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9C6AFE-3727-4E61-AEA9-E3E2AA9C5C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00DC5081-5B32-481F-9926-D290EF2430C6}
+	EndGlobalSection
+EndGlobal
